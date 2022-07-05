@@ -1,0 +1,12 @@
+Va ds le dossier "Fichiers" et ds le fichier personalise.txt tu y met ce que tu veut et a chaque option tu saute une ligne genre :
+Varus
+Vex
+Qiyana
+...
+
+
+et mtn tu ouvre le script batch et à la ligne 69 ya "set /a rand=%random% %% 158" tu modifie le nombre 158 par le nombre de mots qu'il y 
+a ds le dossier personalisé(je rapelle qu'il faut sauter une ligne par mot donc le nombre de lignes!!).
+
+
+Et donc qnd tu lance le script tu saisis "personalisé" et ca marche BG !
